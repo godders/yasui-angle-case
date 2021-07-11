@@ -20,3 +20,9 @@ to do some manual tweaking of the floor height if you want a very low angle.
 I don't have an 8u stab wire so I printed some adaptors for the 10u bar, stl and fusion source is included.
 
 ![stab adaptor model](stab_adaptor_model.png)
+
+You'll need to print two, one mirrored:
+
+![stab adaptor pic](stab_adaptor.jpg)
+
+The offset amount is parameterised in the fusion file if you want to make one for a different ratio.
