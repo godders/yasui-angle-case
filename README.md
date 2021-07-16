@@ -26,3 +26,7 @@ You'll need to print two, one mirrored:
 ![stab adaptor pic](stab_adaptor.jpg)
 
 The offset amount is parameterised in the fusion file if you want to make one for a different ratio.
+
+## License
+
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Although please contact me if there's something you want to do that this license doesn't allow.
